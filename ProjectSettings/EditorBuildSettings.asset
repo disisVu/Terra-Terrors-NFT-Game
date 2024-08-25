@@ -6,6 +6,10 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/Samples/web3.unity SDK/2.6.0/Web3.Unity Samples/Scenes/SampleLogin
+      - WalletConnect.unity
+    guid: 1c1af5c5662d105498b2412267dde0df
+  - enabled: 1
     path: Assets/Scenes/Main Menu.unity
     guid: 9132bc4bb6f77ed4dab37918c9e10bc8
   - enabled: 1
